@@ -31,7 +31,6 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
-	background-image: url(https://i.pinimg.com/originals/f7/8d/e7/f78de781d46f3d5653b2dedac56177a6.jpg);
 }
 
 ol, ul {
@@ -1159,7 +1158,8 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/bg.jpg");
+			background-image: url("../../images/github_background.jpg");
+			opacity: 0.5;
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
